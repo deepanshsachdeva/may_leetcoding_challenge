@@ -19,5 +19,12 @@
   7. Implement Trie (Prefix Tree) - Problem [#208](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 ## Week 3
-
+  1. Maximum Sum Circular Subarray - Problem [#918](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+  2. Odd Even Linked List - Problem [#328](https://leetcode.com/problems/odd-even-linked-list/)
+  3. Find All Anagrams in a String - Problem [#438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+  4. Permutation in String - Problem [#567](https://leetcode.com/problems/permutation-in-string/)
+  5. Online Stock Span - Problem [#901](https://leetcode.com/problems/online-stock-span/)
+  6. Kth Smallest Element in a BST - Problem [#230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+  7. Count Square Submatrices with All Ones - Problem [#1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+  
 ## Week 4
