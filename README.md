@@ -28,3 +28,8 @@
   7. Count Square Submatrices with All Ones - Problem [#1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
   
 ## Week 4
+  1. Sort Characters By Frequency - Problem [#451](https://leetcode.com/problems/sort-characters-by-frequency/)
+  2. Interval List Intersections - Problem [#986](https://leetcode.com/problems/interval-list-intersections/)
+  3. Construct Binary Search Tree from Preorder Traversal - Problem [#1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+  4. Uncrossed Lines - Problem [#1035](https://leetcode.com/problems/uncrossed-lines/)
+  5. Contiguous Array - Problem [#525](https://leetcode.com/problems/contiguous-array/)
