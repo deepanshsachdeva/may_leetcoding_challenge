@@ -33,3 +33,4 @@
   3. Construct Binary Search Tree from Preorder Traversal - Problem [#1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
   4. Uncrossed Lines - Problem [#1035](https://leetcode.com/problems/uncrossed-lines/)
   5. Contiguous Array - Problem [#525](https://leetcode.com/problems/contiguous-array/)
+  6. Possible Bipartition - Problem[#886](https://leetcode.com/problems/possible-bipartition)
