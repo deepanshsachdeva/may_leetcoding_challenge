@@ -35,3 +35,6 @@
   5. Contiguous Array - Problem [#525](https://leetcode.com/problems/contiguous-array/)
   6. Possible Bipartition - Problem [#886](https://leetcode.com/problems/possible-bipartition)
   7. Counting Bits - Problem [#338](https://leetcode.com/problems/counting-bits/)
+
+## Week 5
+  1. Course Schedule - Problem [#207](https://leetcode.com/problems/course-schedule/)
