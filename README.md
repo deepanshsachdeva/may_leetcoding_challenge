@@ -39,3 +39,4 @@
 ## Week 5
   1. Course Schedule - Problem [#207](https://leetcode.com/problems/course-schedule/)
   2. K Closest Points to Origin - Problem [#973](https://leetcode.com/problems/k-closest-points-to-origin/)
+  3. Edit Distance - Problem [#72](https://leetcode.com/problems/edit-distance/)
